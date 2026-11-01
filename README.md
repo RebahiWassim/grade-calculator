@@ -3,6 +3,12 @@
 A simple Python application that calculates the average grade of a student
 and determines whether the student passes.
 
+## Team
+
+- Sadoune Fadjr
+- Zarifi Mohamed Abd Elhadi
+- Rebahi M'hamed Wassim
+
 ## Installation
 
 ```bash
